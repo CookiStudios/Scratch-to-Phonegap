@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[Put your id here]"
+        id          = "[appleeatingsimulator.cookistudios.edu.mit.scratch]"
         versionCode = "10" 
         version     = "1.0.0" >
-
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+
+    <name>Apple Eating Simulator</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
+        Welcome to apple eating simulator, a cookie clicker style game made using scratch!
+        This game is all about eating apples
+        Every bite of an apple you take gets you one dollar
+        use the money to get apple eating helpers!
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/CookiStudios" email="Kofi.walsh@gmail.com">
+        CookiStudios
     </author>
 
 </widget>
+ 
